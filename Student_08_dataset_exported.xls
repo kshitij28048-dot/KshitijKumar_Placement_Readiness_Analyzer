@@ -1,0 +1,21 @@
+Student_ID,Name,Aptitude,Reasoning,Verbal,Technical,Total Marks,Percentage,Result,Eligible
+1001,Aarav,85,53,50,83,271,67.75,Passes,YES
+1002,Aditi,69,64,54,53,240,60.0,Passes,YES
+1003,Arjun,28,49,76,67,220,55.0,Failed,NO
+1004,Diya,60,33,60,69,222,55.5,Failed,NO
+1005,Ishaan,90,76,93,67,326,81.5,Passes,YES
+1006,Kavya,28,39,58,47,172,43.0,Failed,NO
+1007,Kabir,99,58,29,38,224,56.0,Failed,NO
+1008,Meera,80,69,65,80,294,73.5,Passes,YES
+1009,Neha,90,39,74,98,301,75.25,Failed,NO
+1010,Rohan,49,57,30,80,216,54.0,Failed,NO
+1011,Sana,25,91,93,50,259,64.75,Failed,NO
+1012,Vivaan,71,80,33,67,251,62.75,Failed,NO
+1013,Anaya,65,40,63,89,257,64.25,Failed,NO
+1014,Dev,64,77,66,76,283,70.75,Passes,YES
+1015,Ira,62,95,41,49,247,61.75,Failed,NO
+1016,Kunal,78,73,47,97,295,73.75,Failed,NO
+1017,Mira,63,76,95,25,259,64.75,Failed,NO
+1018,Nikhil,63,61,51,80,255,63.75,Passes,YES
+1019,Pooja,99,66,84,81,330,82.5,Passes,YES
+1020,Reyansh,81,52,90,85,308,77.0,Passes,YES
